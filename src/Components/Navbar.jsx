@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const navigations = [
   { name: "Anuar", href: "/", current: false },
   { name: "Kenali Saya", href: "/bio", current: false },
-  { name: "Survey P141", href: "/kajiselidik-anak-muda-sekijang" },
+  // { name: "Survey P141", href: "/kajiselidik-anak-muda-sekijang" },
   // { name: "P141 Sekijang", href: "#", current: true }
 ];
 
