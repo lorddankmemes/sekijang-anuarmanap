@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sekijang-anuarmanap/static/css/main.d93f39e9.css",
+    "main.js": "/sekijang-anuarmanap/static/js/main.c5560d59.js",
+    "static/js/787.970c4253.chunk.js": "/sekijang-anuarmanap/static/js/787.970c4253.chunk.js",
+    "static/media/pic.png": "/sekijang-anuarmanap/static/media/pic.03e8d18b2ea163211c5e.png",
+    "static/media/Anuar Manap 1.2.png": "/sekijang-anuarmanap/static/media/Anuar Manap 1.2.4478d514414cb3220d67.png",
+    "index.html": "/sekijang-anuarmanap/index.html",
+    "main.d93f39e9.css.map": "/sekijang-anuarmanap/static/css/main.d93f39e9.css.map",
+    "main.c5560d59.js.map": "/sekijang-anuarmanap/static/js/main.c5560d59.js.map",
+    "787.970c4253.chunk.js.map": "/sekijang-anuarmanap/static/js/787.970c4253.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d93f39e9.css",
+    "static/js/main.c5560d59.js"
+  ]
+}
